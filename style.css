@@ -1,4 +1,8 @@
-#about, #skill,#gallery,#contact{
+/* #about, #skill,#gallery,#contact{
+    background-color: #000;
+} */
+
+body{
     background-color: #000;
 }
 .card a {
@@ -383,11 +387,11 @@ h1{
 .skill-my:hover .skill-img{
     transform: translate3d(-50%,-52%,80px) scale(1.2);
 }
-@media (max-width: 767px){
+/* @media (max-width: 767px){
     .skill-my{
         margin: 0 80px;
     }
-}
+} */
 
 /* akhir skill */
 
